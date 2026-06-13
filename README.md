@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pyphd
 
 Personal Python package for reusable code: preconfigured models, hyperparameter
