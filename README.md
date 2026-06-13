@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pyphd
 
 Personal Python package for reusable code: preconfigured models, hyperparameter
@@ -35,3 +36,7 @@ from pyphd.data import clean_column_names
 
 df = clean_column_names(df)
 ```
+=======
+# PyPhD
+Misc. tools for my PhD organize as a messy library
+>>>>>>> 11161d186e99b7fdb4699c0c2acef8c7e3c0b036
